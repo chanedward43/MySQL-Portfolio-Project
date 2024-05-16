@@ -28,3 +28,4 @@ The packages used:
 
 ## Tableau Visualisation
 [Tableau public link](https://public.tableau.com/shared/WW8MMSTM6?:display_count=n&:origin=viz_share_link)
+![](Tableau/Covid-Dashboard.png)
