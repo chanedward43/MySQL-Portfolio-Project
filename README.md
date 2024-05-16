@@ -29,3 +29,7 @@ The packages used:
 ## Tableau Visualisation
 [Tableau public link](https://public.tableau.com/shared/WW8MMSTM6?:display_count=n&:origin=viz_share_link)
 ![](Tableau/Covid-Dashboard.png)
+
+
+## Acknowledgement
+Thank you to Alex The Analyst for the tutorial, the link for the youtube channel is [here](https://www.youtube.com/@AlexTheAnalyst)
