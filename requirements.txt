@@ -1,0 +1,10 @@
+#
+# This file is used to download all the requirements running the application
+#
+# use in cmd: pip install -r requirements.txt
+#
+
+pandas>=2.0.3
+numpy>=1.23.4
+seaborn>=0.12.2
+matplotlib>=3.7.2
